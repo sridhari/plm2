@@ -1,0 +1,1 @@
+xbmsrha  sorabh04 C:\Users\SRIDHARHARIHARAN\workspace\TestCpws\TestCpws1\RequestReadProduct.xml C:\Users\SRIDHARHARIHARAN\workspace\TestCpws\TestCpws1\RequestReadProductResponse.xml
